@@ -203,5 +203,5 @@ Sinta-se à vontade para usar como base de estudo.
 ---
 
 <p align="center">
-  Desenvolvido com  por <a href="https://github.com/cientistaarlis">Cientista Arlis</a>
+  Desenvolvido por <a href="https://github.com/cientistaarlis">Cientista Arlis</a>
 </p>
