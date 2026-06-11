@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/badge/PHP-8%2B-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge"/>
 </p>
 
 ---
@@ -204,5 +203,5 @@ Sinta-se à vontade para usar como base de estudo.
 ---
 
 <p align="center">
-  Desenvolvido com 💜 por <a href="https://github.com/cientistaarlis">cientistaarlis</a>
+  Desenvolvido com  por <a href="https://github.com/cientistaarlis">Cientista Arlis</a>
 </p>
